@@ -57,6 +57,9 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
+st.write("")
+st.write("")
+
 st.markdown('<p class="title">🧠 Student Mental Health Predictor</p>',
             unsafe_allow_html=True)
 
