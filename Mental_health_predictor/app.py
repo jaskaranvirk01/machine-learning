@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-API_URL = "http://127.0.0.1:8000/predict"
+API_URL = "https://mental-health-predictor-backend.onrender.com"
 
 st.set_page_config(
     page_title="Mental Health Predictor",
